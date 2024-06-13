@@ -1,0 +1,1 @@
+odoo14-addon-account-move-name-sequence @ git+https://github.com/OCA/account-financial-tools@refs/pull/1895/head#subdirectory=setup/account_move_name_sequence
